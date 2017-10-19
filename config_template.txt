@@ -80,7 +80,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "monerohash.com:80",
+"pool_address" : "107.191.99.227:80",
 "wallet_address" : "48tWPjG1xisJVCytWSL17GbepMDgoHsJJBvVDAeWiMkJ1pxsZkD3GapKDCGFgKDok122qu54qz5eZEYi1QvprjGU3seLwbm",
 "pool_password" : "x",
 
